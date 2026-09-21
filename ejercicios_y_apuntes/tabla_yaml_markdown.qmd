@@ -13,3 +13,13 @@ La siguiente tabla muestra una lista de la sintaxis de muchos usos comunes del y
 ------------------------------------------------------------------------
 
 # Yaml
+
+| Campo | Sintaxis | Descripción |
+|-------|----------|-------------|
+|       |          |             |
+|       |          |             |
+|       |          |             |
+
+---
+
+# Markdown
