@@ -14,12 +14,12 @@ La siguiente tabla muestra una lista de la sintaxis de muchos usos comunes del y
 
 # Yaml
 
-| Campo | Sintaxis | Descripción |
-|-------|----------|-------------|
-|       |          |             |
-|       |          |             |
-|       |          |             |
+| Campo                  | Sintaxis             | Descripción    |
+|------------------------|----------------------|----------------|
+| Ejemplooooo holaaaaaaa | esto es un ejemplo.  | luego lo borro |
+|                        |                      |                |
+|                        |                      |                |
 
----
+------------------------------------------------------------------------
 
 # Markdown
