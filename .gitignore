@@ -1,0 +1,13 @@
+# Archivos de R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Archivos generados por Quarto
+*.html
+*_files/
+
+# Archivos temporales
+*.tmp
+*.log

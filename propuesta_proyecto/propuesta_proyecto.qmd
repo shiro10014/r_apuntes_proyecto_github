@@ -1,0 +1,45 @@
+---
+title: "Análisis de las poblaciones de *quiscalus mexicanus* y *Columbina squammata* en barranquilla entre  2015-2026"
+author: "Nelson Pulecio"
+date: "last-modified"
+format: html
+toc: true
+number-sections: true
+editor: visual
+keywords: "aves, barranquilla, ebird"
+theme: journal
+code-fold: true
+lang: es
+---
+
+# Introducción {#intro1}
+
+Quiero realizar un proyecto de aula con avistamiento de la *quiscalus mexicanus* en la ciudad de barranquilla y explorar si se expande la especie junto con la ciudad y **a qué especies puede afectar.**
+
+## Metodología
+
+Utilizar los datos de GBIF entre los años 2000 y 2026 para analizar los registros de avistamiento
+
+```{r}
+#| label: fig-1
+#| fig-cap: "Grafica de ejemplo que está bien melasa, sioq"
+a <- c(1:10)
+b <- c(10:1)
+plot(a,b)
+```
+
+consulta la [introducción](#intro1) tambien puedes consultar la @fig-1 y ver lo bonita que está, apoco no mi profe rodian? `esto es codigo` ~~esto es texto tachado~~
+
+para quien vea esto, que sepa que [Whesley theory](https://youtu.be/l9fN-8NjrvI?si=e1HQawIxX48eYHNN) es una de mis canciones favoritas
+
+- Puntos para lista
+1. Puntos enumerados
+
+---
+Lo que está sobre mi es una linea separadora
+
+Lo que está debajo de mi es una ecuación matematica independiente
+$$x^2 + y^2 = z^2$$
+ecuación matematica en linea, se escribe como en LaTeX al parecer. $x^2 + 3 = 0$
+
+<!-- Esto es un comentario, no debería aparecer en el documento -->
