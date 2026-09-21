@@ -1,0 +1,15 @@
+---
+title: "Tabla yaml y markdown"
+author: "Nelson Pulecio"
+format: html
+editor: visual
+lang: es
+---
+
+## Introducción
+
+La siguiente tabla muestra una lista de la sintaxis de muchos usos comunes del yaml (yaml header, sección dedicada a la configuración del documento que inicia con "---" al inicio del documento y contiene cosas como el titulo, author, formato, etc) y el markdown (lenguaje de marcado en el cual se basan los documentos de quarto) como agregar **negrita** *cursiva* o ~~tachado~~ etc. Asi como agregar links o insertar ecuaciones.
+
+------------------------------------------------------------------------
+
+# Yaml
